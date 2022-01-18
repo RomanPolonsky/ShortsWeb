@@ -1,29 +1,16 @@
 # ShortsWeb
-Frameworks for creating simple website using Apple Shortcuts App and structure data. themain target is to build components/commons data structed designs for Shortcut App (iOS, iPadOs and Mac OS). In future, combineit with vast JS/css framewprks to allow creating with monor of really short time using also notes / reinder ad etc.
+Frameworks for creating simple website using Apple Shortcuts App and structure data. themain target is to build components/commons data structed designs for Shortcut App (iOS, iPadOs and Mac OS). In future, combineit with vast JS/css framewprks to allow creating with monor of really short time using also notes / reinder ad etc. You must all three Shortcuts to build website via Shortcuts.
 
 
-Create Navigation Section From List Of Keywords
-
-https://www.icloud.com/shortcuts/48146960c9b748acbd23ff274c5fb1aa
-
-![image](https://user-images.githubusercontent.com/97714653/149442471-784c3af7-ade6-4170-81db-d1ede1540559.jpeg)
+001 Ask For List Of Pages
+https://www.icloud.com/shortcuts/438b9a5c4424478f9b4a520ca1056133
 
 
----
+002 Create Navigation Section From List Of Keywords 1
+https://www.icloud.com/shortcuts/c3f688794da9421f898b8f89f565547f
 
+003 Each Page Content
+https://www.icloud.com/shortcuts/0f91cd6162f34b978b33b5b70470ba41
 
-Create Page From Note
-
-https://www.icloud.com/shortcuts/ffcdd0083fec437ea82c00a0a5b951c1
-
-![image](https://user-images.githubusercontent.com/97714653/149442646-64936e50-df2e-4397-a920-d1a524053b64.jpeg)
-
-
----
- 
-
-Concat Navigation With Simple Page
-
-https://www.icloud.com/shortcuts/c551b2c8ade14531ad797475d6e94950
-
-![image](https://user-images.githubusercontent.com/97714653/149442558-855d74a5-4865-4421-9ec6-dd5b040265c8.jpeg)
+When you need starting the run from last Shortcuts:
+003 Each Page Content
